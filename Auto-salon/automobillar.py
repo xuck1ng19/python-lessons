@@ -1,5 +1,6 @@
 #Shohjahon G'aybullayev 11.10.2024.
 #Salondagi automobillarni saqlovchi funksiya tuzulgan
+#hamma uchun bu narsa
 def auto_info(kompaniya,model,rang,karobka,yil,narxi=None):
     '''Automobillar haqida malumot beruvchi dastur'''
     auto={'kompaniya':kompaniya,
